@@ -7,7 +7,7 @@ To know the best configuration, you need to do a lot of CFD simulations, so it t
 To access the best configuration, I can directly have access to the PMV index though the CFD simulations
 
 # Example of a CFD simulation
-
+![Aperçu du projet](https://github.com/thoid/CFD-with-NN/blob/main/CFD.gif)
 
 
 
