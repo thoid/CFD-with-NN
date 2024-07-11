@@ -1,6 +1,11 @@
 # CFD-with-NN
 Optimization of Air Conditionner placement using CFD simulations with Neural Network
 
+# Data availability
+
+The data used in the study can be download in : https://drive.google.com/drive/folders/1lN-8JDwsdIay6IEUnQHaMQXBE-9fYef0?usp=drive_link.
+Download the file Research_project and upload it in your own drive at the base.
+
 # Introduction
 
 Research Project done in Tohoku University in the Laboratorie of Built Environment Engineering.
